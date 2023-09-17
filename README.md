@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- ![](https://komarev.com/ghpvc/?username=ritu-thombre99&color=blueviolet) -->
-
-- 🔭 I’m currently a Qiskit Advocate at IBM Quantum.
+- 💻 Currently, I'm a graduate research student at University of British Columbia and work in QSAR lab.
+- 🔭 I’m also a Qiskit Advocate at IBM Quantum.
 - 🌱 My interests in quantum computing: quantum algorithms, quantum information and quantum cryptography.
 - ❤ Apart from quantum computing I'm deeply fascinated by physics, mathematics, linear algebra and astronomy.
 - 💬 I’m open to collaborate on quantum computing projects.
