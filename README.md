@@ -9,7 +9,7 @@
 - 📫 How to reach me : rituthombre99@gmail.com, [LinkedIn](https://www.linkedin.com/in/ritu-thombre/) 
 - ⚡ I love developing quantum games
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ritu-thombre99&count_private=true&theme=dark&show_icons=true&hide=contribs,issues,prs)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ritu-thombre99&count_private=true&theme=dark&show_icons=true)
 
 
 <!-- 
